@@ -1,3 +1,4 @@
+# Database models for blog categories, posts, and comments.
 from django.db import models
 from django.contrib.auth.models import User
 

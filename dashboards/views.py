@@ -1,3 +1,4 @@
+# Views for the admin dashboard including CRUD operations for categories, posts, and users.
 from django.shortcuts import get_object_or_404, redirect, render
 
 from blogs.models import Blog, Category

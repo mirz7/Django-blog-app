@@ -1,3 +1,4 @@
+# Core Django settings including database, apps, middleware, and static files configuration.
 """
 Django settings for blog_main project.
 

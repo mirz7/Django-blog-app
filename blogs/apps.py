@@ -1,3 +1,4 @@
+# Configuration for the blogs app.
 from django.apps import AppConfig
 
 

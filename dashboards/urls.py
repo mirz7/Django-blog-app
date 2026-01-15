@@ -1,3 +1,4 @@
+# URL configurations for the admin dashboard features like managing categories, posts, and users.
 from django.urls import path
 from . import views
 

@@ -1,3 +1,4 @@
+# Configuration for the assignments app.
 from django.apps import AppConfig
 
 

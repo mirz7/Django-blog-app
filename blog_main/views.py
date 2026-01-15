@@ -1,4 +1,5 @@
 
+# Main views for the project including the home page, user registration, login, and logout.
 from django.shortcuts import redirect, render
 
 from blogs.models import Blog, Category

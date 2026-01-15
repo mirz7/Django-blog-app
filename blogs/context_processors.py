@@ -1,3 +1,4 @@
+# Context processors to make categories and social links globally available across all templates.
 from .models import Category
 from assignments.models import SocialLink
 

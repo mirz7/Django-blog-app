@@ -1,3 +1,4 @@
+# WSGI entrypoint for traditional WSGI web servers to serve the Django project.
 """
 WSGI config for blog_main project.
 

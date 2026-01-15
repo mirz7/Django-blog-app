@@ -1,3 +1,4 @@
+# Main URL routing configuration for the entire Django project.
 """blog_main URL Configuration
 
 The `urlpatterns` list routes URLs to views. For more information please see:

@@ -1,3 +1,4 @@
+# Views for displaying blog posts by category, single blog posts, comments, and search functionality.
 from django.http import HttpResponse, HttpResponseRedirect
 from django.shortcuts import get_object_or_404, redirect, render
 

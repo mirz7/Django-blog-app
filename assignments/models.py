@@ -1,3 +1,4 @@
+# Database models for about information and social links.
 from django.db import models
 
 

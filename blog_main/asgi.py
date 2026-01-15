@@ -1,3 +1,4 @@
+# ASGI entrypoint for asynchronous web servers to serve the Django project.
 """
 ASGI config for blog_main project.
 

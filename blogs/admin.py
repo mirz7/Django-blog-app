@@ -1,3 +1,4 @@
+# Registers blog app models (Category, Blog, Comment) and customizes their display in the Django admin interface.
 from django.contrib import admin
 from .models import Category, Blog, Comment
 

@@ -1,3 +1,4 @@
+# Registers assignment models (About, SocialLink) with the Django admin interface and configures their admin views.
 from django.contrib import admin
 from .models import About, SocialLink
 
